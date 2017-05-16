@@ -8,7 +8,7 @@
     <AssemblyName>LH.BottomBar.XamarinForms</AssemblyName>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="2.3.4.231" />
+    <PackageReference Include="Xamarin.Forms" Version="2.3.4.247" />
 	
 	
     <Compile Update="**\*.xaml.cs" DependentUpon="%(Filename)" />
